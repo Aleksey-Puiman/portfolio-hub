@@ -1,7 +1,4 @@
-# portfolio-hub
-My professional portfolio as a Technical Content Specialist &amp; AI System Architect.
-
-# Портфолио: Алексей [Твоя Фамилия]
+# Портфолио: Алексей Пуйман
 
 ### Technical Content Specialist / AI System Architect
 

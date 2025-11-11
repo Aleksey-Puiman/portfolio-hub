@@ -32,7 +32,7 @@
 
 | В форме | В кабине | После рейса |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![Оливер отдает честь](https://github.com/Aleksey-Puiman/AI-Photographer-portfolio/blob/main/Oliver_Pilot-1.jpg)|![Оливер в кабине](https://github.com/Aleksey-Puiman/AI-Photographer-portfolio/blob/main/Oliver_Pilot-2.jpg)|![Оливер в отеле](https://github.com/Aleksey-Puiman/AI-Photographer-portfolio/blob/main/Oliver_Pilot-3.jpg)|
+|![Оливер отдает честь](https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/Oliver_Pilot-1.jpg)|![Оливер в кабине](https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/Oliver_Pilot-2.jpg)|![Оливер в отеле](https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/Oliver_Pilot-3.jpg)|
 
 <details>
   <summary><strong>Показать технические детали</strong></summary>

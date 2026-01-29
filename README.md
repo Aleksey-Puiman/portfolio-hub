@@ -61,17 +61,51 @@
 
 #### Направления и примеры:
 
-<!-- РЯД 1: ВЕРТИКАЛЬНЫЕ (ЛЮДИ) -->
-| **Технический сектор** | **Корпоративный стиль** | **Имиджевый Lifestyle** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/technical_rescue_ops.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/commercial_aviation.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/lifestyle_automotive.jpg?v=1"> |
-| *Детализация экипировки (снег, ночь).* | *Студийный свет и детализация униформы.* | *Атмосфера бренда и свет.* |
+### 📸 Визуальный контент и работа с ИИ
+*Создание фотореалистичных изображений для бизнеса. Решение проблемы авторских прав и замена дорогостоящих съемок.*
 
-<!-- РЯД 2: ГОРИЗОНТАЛЬНЫЕ (СРЕДА) -->
-| **Производственные процессы** | **E-commerce / Предметка** | **Бизнес-минимализм** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/construction_tech.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/product_lifestyle_hygge.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/minimalist_workspace.jpg?v=1"> |
-| *Визуализация работы в среде.* | *Генерация уникальных фонов.* | *Лаконичный визуал для статей.* |
+#### Направления и примеры:
+
+<table width="100%">
+  <!-- РЯД 1: ВЕРТИКАЛЬНЫЕ (ЛЮДИ) -->
+  <tr>
+    <th width="33.33%">Технический сектор</th>
+    <th width="33.33%">Корпоративный стиль</th>
+    <th width="33.33%">Имиджевый Lifestyle</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/technical_rescue_ops.jpg?v=3" width="100%"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/commercial_aviation.jpg?v=3" width="100%"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/lifestyle_automotive.jpg?v=3" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><i>Детализация экипировки (снег, ночь).</i></td>
+    <td align="center"><i>Студийный свет и проработка униформы.</i></td>
+    <td align="center"><i>Атмосфера бренда и свет.</i></td>
+  </tr>
+
+  <!-- РЯД 2: ГОРИЗОНТАЛЬНЫЕ (СРЕДА) -->
+  <tr>
+    <th>Производственные процессы</th>
+    <th>E-commerce / Предметка</th>
+    <th>Бизнес-минимализм</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/construction_tech.jpg?v=3" width="100%"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/product_lifestyle_hygge.jpg?v=3" width="100%"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/minimalist_workspace.jpg?v=3" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><i>Визуализация работы в среде.</i></td>
+    <td align="center"><i>Генерация уникальных фонов.</i></td>
+    <td align="center"><i>Лаконичный визуал для статей.</i></td>
+  </tr>
+</table>
+
+#### Почему это выгодно для компании:
+1.  **Юридическая чистота:** Контент уникален, нет риска претензий по авторским правам.
+2.  **Экономия бюджета:** Замена выездных фотосессий и покупки дорогих ассетов на стоках.
+3.  **Гибкость:** Возможность создать любой сюжет под конкретную задачу за минуты.
 
 #### Почему это выгодно для компании:
 1.  **Юридическая чистота:** Контент уникален, нет риска претензий по авторским правам.

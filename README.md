@@ -64,13 +64,13 @@
 <!-- РЯД 1: ВЕРТИКАЛЬНЫЕ (ЛЮДИ) -->
 | **Технический сектор** | **Корпоративный стиль** | **Имиджевый Lifestyle** |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/technical_rescue_ops.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/commercial_aviation.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/lifestyle_automotive.jpg" width="100%"> |
+| <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/technical_rescue_ops.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/commercial_aviation.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/lifestyle_automotive.jpg?v=1"> |
 | *Детализация экипировки (снег, ночь).* | *Студийный свет и детализация униформы.* | *Атмосфера бренда и свет.* |
 
 <!-- РЯД 2: ГОРИЗОНТАЛЬНЫЕ (СРЕДА) -->
 | **Производственные процессы** | **E-commerce / Предметка** | **Бизнес-минимализм** |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/construction_tech.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/product_lifestyle_hygge.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/minimalist_workspace.jpg" width="100%"> |
+| <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/construction_tech.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/product_lifestyle_hygge.jpg?v=1"> | <img src="https://raw.githubusercontent.com/Aleksey-Puiman/AI-Photographer-portfolio/main/minimalist_workspace.jpg?v=1"> |
 | *Визуализация работы в среде.* | *Генерация уникальных фонов.* | *Лаконичный визуал для статей.* |
 
 #### Почему это выгодно для компании:

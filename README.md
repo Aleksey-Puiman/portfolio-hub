@@ -7,14 +7,15 @@
 ---
 
 ### 📝 Работа с информацией и контентом
-*Кейсы по подготовке материалов: от технической документации до B2B-предложений.*
+*Кейсы по подготовке материалов: от технической документации до B2B-предложений и SEO-статей.*
 
 | Проект / Направление | Задача и решение | Результат |
 | :--- | :--- | :--- |
 | **1. E-commerce: Нивелир** | Сбор данных из PDF-мануала, подготовка описания и ИИ-визуала. | 📄 **[Открыть PDF](https://aleksey-puiman.github.io/portfolio-cases/case_1_ada_level.pdf)** |
 | **2. Аналитика: Выбор CMS** | Сравнительный обзор платформ (Tilda, WP, OpenCart) для бизнеса. | 📄 **[Открыть PDF](https://aleksey-puiman.github.io/portfolio-cases/case_2_cms_comparison.pdf)** |
-| **3. SMM: Hygge-стиль** | Копирайтинг и визуальная подача для соцсетей. | 📄 **[Открыть PDF](https://aleksey-puiman.github.io/portfolio-cases/case_3_smm_hygge.pdf)** |
-| **4. B2B: Спецобувь** | Разработка коммерческого предложения и карточки товара (ИИ). | 📄 **[Открыть PDF](https://aleksey-puiman.github.io/portfolio-cases/КП_Балтобувь_5240ККС.pdf)** <br> 🖼️ **[ИИ-Карточка](https://aleksey-puiman.github.io/portfolio-cases/Карточка_Маркетплейс_5240ККС.jpg)** |
+| **3. SMM: Hygge-стиль** | Копирайтинг и визуальная подача для социальных сетей. | 📄 **[Открыть PDF](https://aleksey-puiman.github.io/portfolio-cases/case_3_smm_hygge.pdf)** |
+| **4. B2B: Спецобувь** | Разработка коммерческого предложения и карточки товара (ИИ). | 📄 **[Открыть PDF](https://aleksey-puiman.github.io/portfolio-cases/case_4_b2b_safety_shoes.pdf)** <br> 🖼️ **[ИИ-Карточка](https://aleksey-puiman.github.io/portfolio-cases/case_4_visual_safety_shoes.jpg)** |
+| **5. SaaS: Контур.Экстерн** | SEO-статья для блога. Декомпозиция сложного ПО в выгоды для бизнеса. | 📄 **[Открыть PDF](https://aleksey-puiman.github.io/portfolio-cases/case_5_seo_kontur_extern.pdf)** |
 
 ---
 
